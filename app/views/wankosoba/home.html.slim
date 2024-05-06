@@ -1,6 +1,6 @@
 .mx-auto.max-w-7xl.sm:px-6.lg:px-8
-  .relative.h-56.bg-cover class="bg-[url('background.png')]"
-    .h-56.bg-white.opacity-50
+  .relative.h-56.bg-cover.w-full class="bg-[url('background.png')]"
+    .h-56.bg-white.opacity-50.w-full
     .absolute.top-10.left-28
       = image_tag 'soba.png', class: 'h-32 w-34'
     = turbo_frame_tag 'theme' do
@@ -28,6 +28,10 @@
     #correct.hidden
       .bg-blue-200.h-10.w-full.px-2.text-gray-900.flex.flex-row.items-center
         p.font-bold 正解！
+    p.text-sm.px-2.pt-2.pb-0
+      | スマホのタイピングアプリです！
+    p.text-sm.px-2
+      | すべてひらがなで入力してください！
     #correct_submit.hidden
       =link_to 'correct', wankosoba_correct_path, data: { turbo_method: 'post' }
 
