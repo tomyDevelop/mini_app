@@ -1,0 +1,7 @@
+.mt-2.grid.grid-cols-7.gap-px
+  - key_buttons.each do |key_button|
+    button.rounded-md.bg-white.py-1.5.text-gray-400.border.border-gray-400.hover:bg-gray-100.focus:z-10.flex.justify-center
+      - if key_button.include?('svg')
+        = image_tag key_button, class: 'h-5 w-5'
+      - else
+        = key_button

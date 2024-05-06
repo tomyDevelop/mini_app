@@ -1,0 +1,10 @@
+= turbo_stream.replace 'theme' do
+  = turbo_frame_tag 'theme' do
+    .absolute.top-40.left-10.h-14.w-72.bg-zinc-700.opacity-75.rounded-md.ring-2.ring-inset.ring-white.ring-offset-4.ring-offset-zinc-700.px-3.text-white.content-end.pt-2#question class='pb-2.5'
+      ruby
+        = @data['text']
+        rp 
+          | (
+        rt =@data['ruby']
+        rp
+          | )

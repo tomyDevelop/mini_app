@@ -1,0 +1,36 @@
+.mx-auto.max-w-7xl.sm:px-6.lg:px-8
+  .relative.h-56.bg-cover class="bg-[url('background.png')]"
+    .h-56.bg-white.opacity-50
+    .absolute.top-10.left-28
+      = image_tag 'soba.png', class: 'h-32 w-34'
+    = turbo_frame_tag 'theme' do
+      .absolute.top-40.left-10.h-14.w-72.bg-zinc-700.opacity-75.rounded-md.ring-2.ring-inset.ring-white.ring-offset-4.ring-offset-zinc-700.px-3.text-white.content-end.pt-2#question class='pb-2.5'
+        ruby
+          = @data['text']
+          rp 
+            | (
+          rt =@data['ruby']
+          rp
+            | )
+  div
+    .bg-white.shadow.sm:rounded-lg
+      .px-2.py-2.flex.flex-row.space-x-2.items-center
+        input.block.w-full.rounded-md.border-0.py-2.text-gray-900.shadow-sm.ring-1.ring-inset.ring-gray-300.placeholder:text-gray-400.focus:ring-2.focus:ring-inset.focus:ring-indigo-600.sm:text-sm.sm:leading-6#answer type='text' placeholder='ひらがなで入力してください！'
+        button.w-16.inline-flex.items-center.justify-center.rounded-md.bg-indigo-600.px-2.text-sm.font-semibold.text-white.shadow-sm.hover:bg-indigo-500.focus-visible:outline.focus-visible:outline-2.focus-visible:outline-offset-2.focus-visible:outline-indigo-600.sm:ml-3.sm:mt-0#submit type='button' class='py-1.5'
+          | 送信
+    #diff.hidden
+      .bg-green-200.h-10.w-full.px-2.text-gray-900.flex.flex-row.items-center
+        p.w-1/4 お題: 
+        #diff_question
+      .bg-red-200.h-10.w-full.px-2.text-gray-900.flex.flex-row.items-center
+        p.w-1/4 入力内容: 
+        #diff_answer
+    #correct.hidden
+      .bg-blue-200.h-10.w-full.px-2.text-gray-900.flex.flex-row.items-center
+        p.font-bold 正解！
+    #correct_submit.hidden
+      =link_to 'correct', wankosoba_correct_path, data: { turbo_method: 'post' }
+
+script type='module'
+  | import init from 'controllers/wankosoba';
+  | init();

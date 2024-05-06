@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "content": "(",
+    "html_id": "left_parenthesis",
+    "sort_key":10
+  },
+  {
+    "id": 2,
+    "content": ")",
+    "html_id": "right_parenthesis",
+    "sort_key": 11
+  },
+  {
+    "id": 3,
+    "content": "#",
+    "html_id": "sharp",
+    "sort_key": 16
+  },
+  {
+    "id": 4,
+    "content": "paste.svg",
+    "html_id": "paste",
+    "sort_key": 31
+  },
+  {
+    "id": 5,
+    "content": "【",
+    "html_id": "left_black_lenticular_bracket",
+    "sort_key": 12
+  },
+  {
+    "id": 6,
+    "content": "】",
+    "html_id": "left_black_lenticular_bracket",
+    "sort_key": 13
+  },
+  {
+    "id": 7,
+    "content": "chevron-left.svg",
+    "html_id": "chevron-left",
+    "sort_key": 22
+  },
+  {
+    "id": 8,
+    "content": "chevron-right.svg",
+    "html_id": "chevron-right",
+    "sort_key": 23
+  },
+  {
+    "id": 9,
+    "content": "chevron-double-left.svg",
+    "html_id": "chevron-double-left",
+    "sort_key": 21
+  },
+  {
+    "id": 10,
+    "content": "chevron-double-right.svg",
+    "html_id": "chevron-double-right",
+    "sort_key": 26
+  },
+  {
+    "id": 11,
+    "content": "chevron-up.svg",
+    "html_id": "chevron-up",
+    "sort_key": 24
+  },
+  {
+    "id": 12,
+    "content": "chevron-down.svg",
+    "html_id": "chevron-down",
+    "sort_key": 25
+  },
+  {
+    "id": 13,
+    "content": "<",
+    "html_id": "angle_blacket_left",
+    "sort_key": 14
+  },
+  {
+    "id": 14,
+    "content": ">",
+    "html_id": "angle_bracket_left",
+    "sort_key": 15
+  }
+]
+

@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "layout": "today(wday)\n学習時間：XXX.Xh / 1000h (+X.Xh)\n学習内容：\n感想：",
+    "sort_key": 1
+  },
+  {
+    "id": 2,
+    "layout": "【先週の振り返り】（行ったこと、意識したこと）\n学習：\ntotal時間（週）：XX.Xh\nCREDO：\n【今週の目標】（行うこと、意識して取り組むことを具体的に）学習：\ntotal時間（週）：XX.Xh\nCREDO：\n【他のRUNTEQ生に伝えたいこと・意気込みなど！】\n",
+    "sort_key": 2
+  }
+]

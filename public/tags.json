@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "tag_name": "RUNTEQ",
+    "sort_key":1
+  },
+  {
+    "id": 2,
+    "tag_name": "1000時間チャレンジ",
+    "sort_key": 2
+  },
+  {
+    "id": 3,
+    "tag_name": "RUNTEQあるある",
+    "sort_key": 3
+  },
+  {
+    "id": 4,
+    "tag_name": "RUNTEQイベント",
+    "sort_key": 4
+  },
+  {
+    "id": 5,
+    "tag_name": "LT会",
+    "sort_key": 5
+  },
+  {
+    "id": 6,
+    "tag_name": "ミニアプリWeek",
+    "sort_key": 6
+  },
+  {
+    "id": 7,
+    "tag_name": "ゆるシェア会",
+    "sort_key": 7
+  },
+  {
+    "id": 8,
+    "tag_name": "もくもく会",
+    "sort_key": 8
+  },
+  {
+    "id": 9,
+    "tag_name": "朝活",
+    "sort_key": 9
+  },
+  {
+    "id": 10,
+    "tag_name": "RUNTEQ祭",
+    "sort_key": 10
+  }
+]
+

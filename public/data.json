@@ -1,0 +1,407 @@
+[
+    {
+        "text": "竈門炭治郎",
+        "ruby": "かまどたんじろう",
+        "category_name": "鬼滅の刃"
+    },
+    {
+        "text": "竈門禰豆子",
+        "ruby": "かまどねずこ",
+        "category_name": "鬼滅の刃"
+    },
+    {
+        "text": "我妻善逸",
+        "ruby": "あがつまぜんいつ",
+        "category_name": "鬼滅の刃"
+    },
+    {
+        "text": "嘴平伊之助",
+        "ruby": "はしびらいのすけ",
+        "category_name": "鬼滅の刃"
+    },
+    {
+        "text": "栗花落カナヲ",
+        "ruby": "つゆりかなを",
+        "category_name": "鬼滅の刃"
+    },
+    {
+        "text": "不死川玄弥",
+        "ruby": "しなずがわげんや",
+        "category_name": "鬼滅の刃"
+    },
+    {
+        "text": "冨岡義勇",
+        "ruby": "とみおかぎゆう",
+        "category_name": "鬼滅の刃"
+    },
+    {
+        "text": "胡蝶しのぶ",
+        "ruby": "こちょうしのぶ",
+        "category_name": "鬼滅の刃"
+    },
+    {
+        "text": "煉獄杏寿郎",
+        "ruby": "れんごくきょうじゅうろう",
+        "category_name": "鬼滅の刃"
+    },
+    {
+        "text": "宇髄天元",
+        "ruby": "うずいてんげん",
+        "category_name": "鬼滅の刃"
+    },
+    {
+        "text": "甘露寺蜜璃",
+        "ruby": "かんろじみつり",
+        "category_name": "鬼滅の刃"
+    },
+    {
+        "text": "時透無一郎",
+        "ruby": "ときとうむいちろう",
+        "category_name": "鬼滅の刃"
+    },
+    {
+        "text": "伊黒小芭内",
+        "ruby": "いぐろおばない",
+        "category_name": "鬼滅の刃"
+    },
+    {
+        "text": "産屋敷耀哉",
+        "ruby": "うぶやしきかがや",
+        "category_name": "鬼滅の刃"
+    },
+    {
+        "text": "産屋敷あまね",
+        "ruby": "うぶやしきあまね",
+        "category_name": "鬼滅の刃"
+    },
+    {
+        "text": "雪代縁",
+        "ruby": "ゆきしろえにし",
+        "category_name": "るろうに剣心"
+    },
+    {
+        "text": "志々雄真実",
+        "ruby": "ししおまこと",
+        "category_name": "るろうに剣心"
+    },
+    {
+        "text": "四乃森蒼紫",
+        "ruby": "しのもりあおし",
+        "category_name": "るろうに剣心"
+    },
+    {
+        "text": "緋村剣心",
+        "ruby": "ひむらけんしん",
+        "category_name": "るろうに剣心"
+    },
+    {
+        "text": "神谷薫",
+        "ruby": "かみやかおる",
+        "category_name": "るろうに剣心"
+    },
+    {
+        "text": "明神弥彦",
+        "ruby": "みょうじんやひこ",
+        "category_name": "るろうに剣心"
+    },
+    {
+        "text": "相楽左之助",
+        "ruby": "さがらさのすけ",
+        "category_name": "るろうに剣心"
+    },
+    {
+        "text": "高荷恵",
+        "ruby": "たかにめぐみ",
+        "category_name": "るろうに剣心"
+    },
+    {
+        "text": "野原しんのすけ",
+        "ruby": "のはらしんのすけ",
+        "category_name": "クレヨンしんちゃん"
+    },
+    {
+        "text": "野原みさえ",
+        "ruby": "のはらみさえ",
+        "category_name": "クレヨンしんちゃん"
+    },
+    {
+        "text": "野原ひろし",
+        "ruby": "のはらひろし",
+        "category_name": "クレヨンしんちゃん"
+    },
+    {
+        "text": "ぶりぶりざえもん",
+        "ruby": "ぶりぶりざえもん",
+        "category_name": "クレヨンしんちゃん"
+    },
+    {
+        "text": "日向翔陽",
+        "ruby": "ひなたしょうよう",
+        "category_name": "ハイキュー"
+    },
+    {
+        "text": "影山飛雄",
+        "ruby": "かげやまとびお",
+        "category_name": "ハイキュー"
+    },
+    {
+        "text": "月島蛍",
+        "ruby": "つきしまけい",
+        "category_name": "ハイキュー"
+    },
+    {
+        "text": "山口忠",
+        "ruby": "やまぐちただし",
+        "category_name": "ハイキュー"
+    },
+    {
+        "text": "澤村大地",
+        "ruby": "さわむらだいち",
+        "category_name": "ハイキュー"
+    },
+    {
+        "text": "菅原孝支",
+        "ruby": "すがわらこうし",
+        "category_name": "ハイキュー"
+    },
+    {
+        "text": "東峰旭",
+        "ruby": "あずまねあさひ",
+        "category_name": "ハイキュー"
+    },
+    {
+        "text": "田中龍之介",
+        "ruby": "たなかりゅうのすけ",
+        "category_name": "ハイキュー"
+    },
+    {
+        "text": "西谷夕",
+        "ruby": "にしのやゆう",
+        "category_name": "ハイキュー"
+    },
+    {
+        "text": "縁下力",
+        "ruby": "えんのしたちから",
+        "category_name": "ハイキュー"
+    },
+    {
+        "text": "浦飯幽助",
+        "ruby": "うらめしゆうすけ",
+        "category_name": "幽遊白書"
+    },
+    {
+        "text": "桑原和真",
+        "ruby": "くわばらかずま",
+        "category_name": "幽遊白書"
+    },
+    {
+        "text": "雪村螢子",
+        "ruby": "ゆきむらけいこ",
+        "category_name": "幽遊白書"
+    },
+    {
+        "text": "飛影",
+        "ruby": "ひえい",
+        "category_name": "幽遊白書"
+    },
+    {
+        "text": "蔵馬",
+        "ruby": "くらま",
+        "category_name": "幽遊白書"
+    },
+    {
+        "text": "越前リョーマ",
+        "ruby": "えちぜんリョーマ",
+        "category_name": "テニスの王子様"
+    },
+    {
+        "text": "手塚国光",
+        "ruby": "てづかくにみつ",
+        "category_name": "テニスの王子様"
+    },
+    {
+        "text": "不二周助",
+        "ruby": "ふじしゅうすけ",
+        "category_name": "テニスの王子様"
+    },
+    {
+        "text": "大石秀一郎",
+        "ruby": "おおいししゅういちろう",
+        "category_name": "テニスの王子様"
+    },
+    {
+        "text": "乾貞治",
+        "ruby": "いぬいさだはる",
+        "category_name": "テニスの王子様"
+    },
+    {
+        "text": "菊丸英二",
+        "ruby": "きくまるえいじ",
+        "category_name": "テニスの王子様"
+    },
+    {
+        "text": "河村隆",
+        "ruby": "かわむらたかし",
+        "category_name": "テニスの王子様"
+    },
+    {
+        "text": "桃城武",
+        "ruby": "ももしろたけし",
+        "category_name": "テニスの王子様"
+    },
+    {
+        "text": "海堂薫",
+        "ruby": "かいどうかおる",
+        "category_name": "テニスの王子様"
+    },
+    {
+        "text": "ガッシュ・ベル",
+        "ruby": "がっしゅべる",
+        "category_name": "金色のガッシュベル"
+    },
+    {
+        "text": "キャンチョメ",
+        "ruby": "きゃんちょめ",
+        "category_name": "金色のガッシュベル"
+    },
+    {
+        "text": "パルコ・フォルゴレ",
+        "ruby": "ぱるこふぉるごれ",
+        "category_name": "金色のガッシュベル"
+    },
+    {
+        "text": "モンキー・D・ルフィ",
+        "ruby": "もんきーでぃーるふぃ",
+        "category_name": "ワンピース"
+    },
+    {
+        "text": "ロロノア・ゾロ",
+        "ruby": "ろろのあぞろ",
+        "category_name": "ワンピース"
+    },
+    {
+        "text": "ナミ",
+        "ruby": "なみ",
+        "category_name": "ワンピース"
+    },
+    {
+        "text": "ウソップ",
+        "ruby": "うそっぷ",
+        "category_name": "ワンピース"
+    },
+    {
+        "text": "サンジ",
+        "ruby": "さんじ",
+        "category_name": "ワンピース"
+    },
+    {
+        "text": "トニー・トニー・チョッパー",
+        "ruby": "とにーとにーちょっぱー",
+        "category_name": "ワンピース"
+    },
+    {
+        "text": "ニコ・ロビン",
+        "ruby": "にころびん",
+        "category_name": "ワンピース"
+    },
+    {
+        "text": "フランキー",
+        "ruby": "ふらんきー",
+        "category_name": "ワンピース"
+    },
+    {
+        "text": "ブルック",
+        "ruby": "ぶるっく",
+        "category_name": "ワンピース"
+    },
+    {
+        "text": "ジンベエ",
+        "ruby": "じんべえ",
+        "category_name": "ワンピース"
+    },
+    {
+        "text": "うずまきナルト",
+        "ruby": "うずまきなると",
+        "category_name": "NARUTO"
+    },
+    {
+        "text": "うちはサスケ",
+        "ruby": "うちはさすけ",
+        "category_name": "NARUTO"
+    },
+    {
+        "text": "春野サクラ",
+        "ruby": "はるのさくら",
+        "category_name": "NARUTO"
+    },
+    {
+        "text": "はたけカカシ",
+        "ruby": "はたけかかし",
+        "category_name": "NARUTO"
+    },
+    {
+        "text": "マイトガイ",
+        "ruby": "まいとがい",
+        "category_name": "NARUTO"
+    },
+    {
+        "text": "奈良シカマル",
+        "ruby": "ならしかまる",
+        "category_name": "NARUTO"
+    },
+    {
+        "text": "エレン・イェーガー",
+        "ruby": "えれんいぇーがー",
+        "category_name": "進撃の巨人"
+    },
+    {
+        "text": "ミカサ・アッカーマン",
+        "ruby": "みかさあっかーまん",
+        "category_name": "進撃の巨人"
+    },
+    {
+        "text": "アルミン・アルレルト",
+        "ruby": "あるみんあるれると",
+        "category_name": "進撃の巨人"
+    },
+    {
+        "text": "ジャン・キルシュタイン",
+        "ruby": "じゃんきるしゅたいん",
+        "category_name": "進撃の巨人"
+    },
+    {
+        "text": "サシャ・ブラウス",
+        "ruby": "さしゃぶらうす",
+        "category_name": "進撃の巨人"
+    },
+    {
+        "text": "コニー・スプリンガー",
+        "ruby": "こにーすぷりんがー",
+        "category_name": "進撃の巨人"
+    },
+    {
+        "text": "ライナー・ブラウン",
+        "ruby": "らいなーぶらうん",
+        "category_name": "進撃の巨人"
+    },
+    {
+        "text": "ベルトルト・フーバー",
+        "ruby": "べるとるとふーばー",
+        "category_name": "進撃の巨人"
+    },
+    {
+        "text": "アニ・レオンハート",
+        "ruby": "あにれおんはーと",
+        "category_name": "進撃の巨人"
+    },
+    {
+        "text": "クリスタ・レンズ",
+        "ruby": "くりすたれんず",
+        "category_name": "進撃の巨人"
+    },
+    {
+        "text": "ユミル",
+        "ruby": "ゆみる",
+        "category_name": "進撃の巨人"
+    }
+]
